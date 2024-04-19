@@ -17,8 +17,7 @@ Imports: Rcpp (>= 0.11.1), methods, stats
 Suggests: compiler, datasets, knitr
 Collate: AllGenerics.R AllClasses.R show-methods.R rococo.R
 	 rococo.test-methods.R gauss.cor.R gauss.cor.test-methods.R
-URL: http://www.bioinf.jku.at/software/rococo/
-     https://github.com/UBod/rococo
+URL: https://github.com/UBod/rococo
 VignetteBuilder: knitr
 LinkingTo: Rcpp
 Repository: CRAN
