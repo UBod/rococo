@@ -16,11 +16,11 @@ into your R session. If, for what reason ever, you prefer to install the package
 
 ## User support
 
-If you encounter any issues or if you have any question that might be of interest also for other users, before writing a private message to the package developers/maintainers, please create an issue in this repository and also consider posting to the [R-help Mailing List]{https://stat.ethz.ch/mailman/listinfo/r-help} or on [StackOverflow]{https://stackoverflow.com/}. For other matters regarding the package, please contact the package author.
+If you encounter any issues or if you have any question that might be of interest also for other users, before writing a private message to the package developers/maintainers, please create an issue in this repository and also consider posting to the [R-help Mailing List](https://stat.ethz.ch/mailman/listinfo/r-help) or on [StackOverflow](https://stackoverflow.com/). For other matters regarding the package, please contact the package author.
 
 ## Citing this package
 
 If you use this package for research that is published later, you are kindly asked to cite it as follows:
 
-- U. Bodenhofer, M. Krone, and F. Klawonn (2013). Testing noisy numerical data for monotonic association. *Inform. Sci.* **245**:21-37. DOI: [10.1016/j.ins.2012.11.026]{http://doi.org/10.1016/j.ins.2012.11.026}.
+- U. Bodenhofer, M. Krone, and F. Klawonn (2013). Testing noisy numerical data for monotonic association. *Inform. Sci.* **245**:21-37. DOI: [10.1016/j.ins.2012.11.026](http://doi.org/10.1016/j.ins.2012.11.026).
 - U. Bodenhofer and F. Klawonn (2008). Robust rank correlation coefficients on the basis of fuzzy orderings: initial steps. *Mathware Soft Comput.* **15**(1):5-20.
