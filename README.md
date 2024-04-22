@@ -12,7 +12,7 @@ The package can be installed from
 ```
 install.packages("rococo")
 ```
-into your R session. If, for what reason ever, you prefer to install the package manually, follow the instructions in the [user manual](https://cran.r-project.org/web/packages/rococo/vignettes/rococo.pdf).
+into your R session. If, for what reason ever, you prefer to install the package manually, follow the instructions in the [user manual](https://cran.r-project.org/package=rococo/vignettes/rococo.pdf).
 
 ## User support
 
